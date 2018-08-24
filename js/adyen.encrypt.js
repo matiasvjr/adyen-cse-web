@@ -1273,4 +1273,4 @@
 
     };
 
-} )(this, typeof define === "function" ? define : null);
+} )(typeof window !== "undefined" ? window : this, typeof define === "function" ? define : null);
