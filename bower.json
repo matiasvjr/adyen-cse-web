@@ -1,5 +1,5 @@
 {
-  "name": "adyen-cse-js",
+  "name": "adyen-cse-web",
   "description": "Adyen javascript client-side encryption library",
   "homepage": "https://github.com/Adyen/CSE-JS",
   "main": "./js/adyen.encrypt.js",
